@@ -10,6 +10,7 @@ namespace begineer_guide
 
             Movie avengers = new Movie("Once upon a time in holyhood", "Joss Whedon", "PG-13");
             Movie shrek = new Movie("Shrek", "Adam Adamson", "PG");
+            Console.WriteLine(avengers.Rating);
             Console.ReadLine();
 
 

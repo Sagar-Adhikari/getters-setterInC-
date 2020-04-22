@@ -14,8 +14,23 @@ namespace begineer_guide
         {
             title = aTitle;
             director = aDirector;
-            rating = aRating;
+            Rating = aRating;
 
+        }
+        public string Rating
+        {
+            get { return rating; }
+            set {
+            if(value == "G"||value =="PG-13"|| value == "PG"|| value == "R")
+                {
+                    rating = value;
+                }
+                else
+                {
+                    rating = "NR";
+
+                }
+            }
         }
     }
 }
