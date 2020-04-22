@@ -1,0 +1,11 @@
+D:\C#\c# for begineers\begineer_guide\begineer_guide\bin\Debug\netcoreapp3.1\begineer_guide.exe
+D:\C#\c# for begineers\begineer_guide\begineer_guide\bin\Debug\netcoreapp3.1\begineer_guide.deps.json
+D:\C#\c# for begineers\begineer_guide\begineer_guide\bin\Debug\netcoreapp3.1\begineer_guide.runtimeconfig.json
+D:\C#\c# for begineers\begineer_guide\begineer_guide\bin\Debug\netcoreapp3.1\begineer_guide.runtimeconfig.dev.json
+D:\C#\c# for begineers\begineer_guide\begineer_guide\bin\Debug\netcoreapp3.1\begineer_guide.dll
+D:\C#\c# for begineers\begineer_guide\begineer_guide\bin\Debug\netcoreapp3.1\begineer_guide.pdb
+D:\C#\c# for begineers\begineer_guide\begineer_guide\obj\Debug\netcoreapp3.1\begineer_guide.csprojAssemblyReference.cache
+D:\C#\c# for begineers\begineer_guide\begineer_guide\obj\Debug\netcoreapp3.1\begineer_guide.AssemblyInfoInputs.cache
+D:\C#\c# for begineers\begineer_guide\begineer_guide\obj\Debug\netcoreapp3.1\begineer_guide.AssemblyInfo.cs
+D:\C#\c# for begineers\begineer_guide\begineer_guide\obj\Debug\netcoreapp3.1\begineer_guide.dll
+D:\C#\c# for begineers\begineer_guide\begineer_guide\obj\Debug\netcoreapp3.1\begineer_guide.pdb
